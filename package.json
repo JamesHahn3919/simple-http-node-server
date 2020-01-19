@@ -1,0 +1,19 @@
+{
+  "name": "simple-http-node-server",
+  "version": "1.0.0",
+  "description": "A simple http node server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesHahn3919/simple-http-node-server.git"
+  },
+  "author": "James Hahns",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesHahn3919/simple-http-node-server/issues"
+  },
+  "homepage": "https://github.com/JamesHahn3919/simple-http-node-server#readme"
+}
